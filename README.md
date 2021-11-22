@@ -11,15 +11,17 @@ def hello():
 
 hello()
 ```
-
-
+<div align = center><h1>📚 i have learned about... </h1></div>
+***
 <br>
-<div align="center">
+<div align = center>
   <img src = https://img.shields.io/badge/-Javascript-yellow></img>
   <img src = https://img.shields.io/badge/-Python-blue></img>
+</div>
+<div align = center>
   <img src = https://img.shields.io/badge/-Java-red></img>
   <img src = https://img.shields.io/badge/-CSS-skyblue></img>
-  <img src = https://img.shields.io/badge/-HTML-#FF6347></img>
+  <img src = https://img.shields.io/badge/-HTML-#FF6347?></img>
 </div>
 <br>
 <br>
