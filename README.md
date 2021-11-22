@@ -1,4 +1,4 @@
-<div align = center><h1> 👋 Hi, I'm @aid_choi </h1></div>
+<div align = center><h1>💻 Hi, I'm @aid_choi </h1></div>
 <br>
 
 ```python3
