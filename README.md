@@ -1,5 +1,19 @@
 <div align = center><h1> 👋 Hi, I'm @aid_choi </h1></div>
 <br>
+
+<div align = center>
+```python
+import sys
+input = sys.stdin.readline
+
+def hello():
+    your_name = input().rstrip()
+    print("Hello, %s! Welcome to my GitHub :)" % your_name)
+
+hello()
+```
+</div>
+
 <br>
 <div align="center">
   <img src = https://img.shields.io/badge/-Javascript-yellow></img>
