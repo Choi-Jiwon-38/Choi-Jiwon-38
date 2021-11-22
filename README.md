@@ -10,4 +10,5 @@ test
     <img src = https://img.shields.io/badge/-HTML-#FF6347></img>
   </div>
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi-Jiwon-38&&show_icons=true&theme=vue)]
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi-Jiwon-38&&show_icons=true&theme=vue)
