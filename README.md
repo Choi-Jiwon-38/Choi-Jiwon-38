@@ -1,8 +1,7 @@
 <div align = center><h1> 👋 Hi, I'm @aid_choi </h1></div>
 <br>
 
-<div align = center>
-```python
+```python3
 import sys
 input = sys.stdin.readline
 
@@ -12,7 +11,7 @@ def hello():
 
 hello()
 ```
-</div>
+
 
 <br>
 <div align="center">
