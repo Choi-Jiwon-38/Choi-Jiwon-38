@@ -11,7 +11,7 @@
 <div align = center>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi-Jiwon-38&&show_icons=true&theme=vue)
 
- <hr?
+<hr>
       
 ![개발자](https://user-images.githubusercontent.com/81795729/142876078-ab05a7cb-6cd4-4a48-b56a-b12a714efec7.png)
 </div>
