@@ -15,13 +15,13 @@ hello()
 <br>
 
 <div align = center>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi-Jiwon-38&&show_icons=true&theme=vue)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chjwoo123)](https://solved.ac/chjwoo123)
 
 <br>
 <br>
     
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chjwoo123)](https://solved.ac/chjwoo123)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi-Jiwon-38&&show_icons=true&theme=vue)
 
 <br>
 <br>
