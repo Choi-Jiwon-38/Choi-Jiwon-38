@@ -16,9 +16,16 @@ hello()
 
 <div align = center>
 
+<h1>Python3</h1>
+    
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chjwoo123)](https://solved.ac/chjwoo123)
 
 <br>
+
+<h1>C++</h1>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qwerty02)](https://solved.ac/qwerty02)
+ 
 <br>
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi-Jiwon-38&&show_icons=true&theme=vue)
