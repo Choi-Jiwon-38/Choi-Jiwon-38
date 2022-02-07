@@ -16,12 +16,14 @@ hello()
 
 <div align = center>
 
-    <p>Python3</p>    
+    <p>Python3</p>
+    
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chjwoo123)](https://solved.ac/chjwoo123)
 
 <br>
 
     <p>C++</p>
+    
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qwerty02)](https://solved.ac/qwerty02)
  
 <br>
