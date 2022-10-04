@@ -1,6 +1,4 @@
-![Group 12](https://user-images.githubusercontent.com/81795729/187223698-780998eb-90c0-4f56-8076-6ce68a795a0d.png)
-
-<h2 align="center">😎 Choi-Jiwon-38 😎</h2>
+<h2 align="center">Choi-Jiwon-38</h2>
 
 <br />
 
