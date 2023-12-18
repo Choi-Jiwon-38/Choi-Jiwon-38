@@ -21,7 +21,7 @@
 |2023.03 ~ 2023.12|산학협력프로젝트 학부연구생 Chaincode & UXUI Developer|[국민대학교](https://cs.kookmin.ac.kr/research/laboratory) [(주)엠투클라우드](https://www.m2cloud.kr/)|
 |2023.03 ~ 2023.12|Network Application Lab Undergraduate Research Student|[국민대학교](https://cs.kookmin.ac.kr/research/laboratory)|
 |2023.06 ~ 2023.08|Front-end Engineer|[Lablup](https://www.lablup.com/)|
-|2023.12 ~ 2023.02|Flutter Developer|[CONCAT](https://concat.kr/)|
+|2023.12 ~ 2024.02|Flutter Developer|[CONCAT](https://concat.kr/)|
 
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoi-Jiwon-38&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
