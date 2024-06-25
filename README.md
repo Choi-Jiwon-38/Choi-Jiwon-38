@@ -1,9 +1,5 @@
-<h2 align="center">Choi-Jiwon-38</h2>
-
-<br />
-
-<h3 align="center">📚 Tech Stack</h3>
- <p align="center">
+<h3>📚 Tech Stack</h3>
+ <p>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
@@ -25,19 +21,33 @@
   
  </p>
 
-<div align = center>
-
-<h3 align="center">🏆 My solved.ac</h3>
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chjwoo123)](https://solved.ac/chjwoo123)
+<h3>💻 Experiences</h3>
 
  |활동 기간|활동 내용|활동 기관|
 |:---|:---|:---|
-|2022.07 ~ 2022.12|산학협력프로젝트 학부연구생 Front-End Developer|[국민대학교](https://www.kookmin.ac.kr/user/index.do) [FST](http://www.fstc.co.kr/kr/)|
-|2023.03 ~ 2023.12|산학협력프로젝트 학부연구생 Chaincode & Front-End Developer|[국민대학교](https://cs.kookmin.ac.kr/research/laboratory) [m2Cloud](https://www.m2cloud.kr/)|
-|2023.03 ~ 2023.12|Network Application Lab Undergraduate Research Student|[국민대학교](https://cs.kookmin.ac.kr/research/laboratory)|
-|2023.06 ~ 2023.08|Front-End Engineer|[Lablup](https://www.lablup.com/)|
-|2023.12 ~ 2024.02|Flutter Developer|[CONCAT](https://concat.kr/)|
-|2024.06 ~ |Front-End Engineer(산업기능요원)|[넛지헬스케어](https://cashwalk.com/)|
+|2022.07 ~ <br>2022.12|산학협력프로젝트 학부연구생 Front-End Developer|[국민대학교](https://www.kookmin.ac.kr/user/index.do) [FST](http://www.fstc.co.kr/kr/)|
+|2023.03 ~ <br>2023.12|산학협력프로젝트 학부연구생 Chaincode & Front-End Developer|[국민대학교](https://cs.kookmin.ac.kr/research/laboratory) [m2Cloud](https://www.m2cloud.kr/)|
+|2023.03 ~ <br>2023.12|Network Application Lab Undergraduate Research Student|[국민대학교](https://cs.kookmin.ac.kr/research/laboratory)|
+|2023.06 ~ <br>2023.08|Front-End Engineer|[Lablup](https://www.lablup.com/)|
+|2023.12 ~ <br>2024.02|Flutter Developer|[CONCAT](https://concat.kr/)|
+|2024.06 ~ <br>|Front-End Engineer(산업기능요원)|[넛지헬스케어](https://cashwalk.com/)|
  
+
+<h3>🏆 Awards</h3>
+
+ |수상일|수상 내용|발행 기관|
+|:---|:---|:---|
+|2023.12.07|2023 마을시간은행 성과공유회 창의 부문 최우수상|국민대학교 LINC사업단, 정릉3동 주민센터|
+|2023.12.26|K-PaaS 활용 디지털 사회혁신 서비스 개발 공모전 은상|과학기술정보통신부|
+|2024.05.31|국민대학교 소프트웨어융합대학 다학제간캡스톤디자인 최종발표회 1등상|국민대학교|
+
+<h3>🪪 Cerificate</h3>
+
+ |취득일|자격명|등급|주관|
+|:---|:---|:---|:---|
+|2024.06.17|컴퓨터활용능력|1급 필기|대한상공회의소|
+|2024.06.18|정보처리기사|기사|한국산업인력공단|
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chjwoo123)](https://solved.ac/chjwoo123)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoi-Jiwon-38&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
