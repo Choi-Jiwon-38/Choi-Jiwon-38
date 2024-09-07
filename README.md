@@ -48,6 +48,7 @@
 |2024.06.17|컴퓨터활용능력|1급 필기|대한상공회의소|
 |2024.06.18|정보처리기사|기사|한국산업인력공단|
 |2024.09.06|ADsP||한국데이터산업진흥원|
+|2024.09.20|SQLD||한국데이터산업진흥원|
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chjwoo123)](https://solved.ac/chjwoo123)
 
