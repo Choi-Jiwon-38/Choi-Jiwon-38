@@ -16,12 +16,11 @@
 
  |활동 기간|활동 내용|활동 기관|
 |:---|:---|:---|
-|2022.07 ~ <br>2022.12|산학협력프로젝트 학부연구생 Front-End Developer|[국민대학교](https://www.kookmin.ac.kr/user/index.do) [FST](http://www.fstc.co.kr/kr/)|
-|2023.03 ~ <br>2023.12|산학협력프로젝트 학부연구생 Chaincode & Front-End Developer|[국민대학교](https://cs.kookmin.ac.kr/research/laboratory) [m2Cloud](https://www.m2cloud.kr/)|
-|2023.03 ~ <br>2023.12|Network Application Lab Undergraduate Research Student|[국민대학교](https://cs.kookmin.ac.kr/research/laboratory)|
-|2023.06 ~ <br>2023.08|Front-End Engineer|[Lablup](https://www.lablup.com/)|
-|2023.12 ~ <br>2024.02|Flutter Developer|[CONCAT](https://concat.kr/)|
-|2024.06 ~ <br>|Front-End Engineer(산업기능요원)|[넛지헬스케어](https://cashwalk.com/)|
+|2022.07 ~ <br>2022.12|산학협력프로젝트 학부연구생<br>- 반도체 칠러 공정 검수 시스템 애플리케이션 개발|[국민대학교](https://www.kookmin.ac.kr/user/index.do) [FST](http://www.fstc.co.kr/kr/)|
+|2023.03 ~ <br>2023.12|네트워크 응용 연구실 학부연구생, 산학협력프로젝트 학부연구생<br>- 블록체인 네트워크 상에서의 의약품 데이터 자료 공유 서비스 체인코드, 프론트엔드 개발|[국민대학교](https://cs.kookmin.ac.kr/research/laboratory) [m2Cloud](https://www.m2cloud.kr/)|
+|2023.06.22 ~ <br>2023.08.18|프론트엔드(React) 개발자 인턴<br>- AI 인프라 운영 플랫폼 [backend.ai-webui](https://github.com/lablup/backend.ai-webui) 프론트엔드 개발|[Lablup](https://www.lablup.com/)|
+|2023.12.22 ~ <br>2024.02.22|프론트엔드(Flutter) 개발자 인턴<br>- 신규 익명 소통 서비스 ‘하트브레이커’ MVP 초기 개발|[CONCAT](https://concat.kr/)|
+|2024.06.25 ~ <br>2026.08.24|프론트엔드(Next.js) 개발자, IT 산업기능요원<br>-[언니의파우치](https://unpa.me/), [캐시워크 for Business](https://cashwalk.com/business) 서비스 웹, 웹뷰, 백오피스 개발|[넛지헬스케어](https://cashwalk.com/)|
  
 
 <h3>🏆 Awards</h3>
